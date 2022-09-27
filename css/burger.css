@@ -1,0 +1,14 @@
+.dn {
+    display: none!important;
+}
+.active {
+    display: block!important;
+}
+
+.footer-media {
+    display: none!important;
+}
+
+.active2 {
+    display: flex!important;
+}
